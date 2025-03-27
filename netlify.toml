@@ -1,0 +1,21 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[dev]
+  command = "npm run dev" # Command to start your dev server
+  port = 3000 # Port that the dev server will be listening on
+  publish = "dist" # Folder with the static content for _redirect file
+
+# 重定向 API 请求到 Netlify 函数
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+# 使单页应用的路由正常工作
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

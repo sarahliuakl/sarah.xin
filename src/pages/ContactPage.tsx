@@ -15,8 +15,13 @@ const ContactPage: React.FC = () => {
     setStatus('loading');
     setStatusMessage('');
 
+    // 准备 API 路径，兼容本地开发和 Netlify 部署
+    const apiUrl = import.meta.env.PROD && !import.meta.env.SSR 
+      ? 'https://sarah-xin.netlify.app/.netlify/functions/send-email' 
+      : '/api/send-email';
+
     try {
-      const response = await fetch('/api/send-email', {
+      const response = await fetch(apiUrl, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

@@ -7,6 +7,8 @@ dotenv.config();
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  // 为 GitHub Pages 设置基础路径（仓库名）
+  base: '/sarah.xin/',
   // Add server configuration for local development proxy
   server: {
     proxy: {

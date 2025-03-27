@@ -35,28 +35,38 @@ npm run build
 
 This will generate a `dist` directory with the production build.
 
-## Deploying to Vercel
+## Deployment Options
 
-This project is configured for deployment on Vercel.
+### GitHub Pages with GitHub Actions (Recommended)
 
-1. Install Vercel CLI:
+This project is configured for automatic deployment to GitHub Pages using GitHub Actions:
+
+1. Push your code to the `main` branch of your GitHub repository:
    ```bash
-   npm install -g vercel
+   git push origin main
    ```
 
-2. Login to Vercel:
-   ```bash
-   vercel login
-   ```
+2. GitHub Actions will automatically build and deploy your site to GitHub Pages.
 
-3. Deploy the project:
-   ```bash
-   vercel
-   ```
+3. Access your deployed site at `https://sarahliuakl.github.io/sarah.xin/`
 
-4. Set environment variables in Vercel dashboard:
+4. **Important**: You need to add the following secrets to your GitHub repository:
+   - Go to your repository > Settings > Secrets and variables > Actions
+   - Add the following repository secrets:
+     - `RESEND_API_KEY`
+     - `TO_EMAIL_ADDRESS`
+
+### Netlify Deployment (Alternative)
+
+The project is also configured for Netlify deployment for handling the contact form API:
+
+1. Connect your GitHub repository to Netlify
+
+2. Set the following environment variables in Netlify:
    - `RESEND_API_KEY`
    - `TO_EMAIL_ADDRESS`
+
+3. Netlify will automatically build and deploy your site.
 
 ## Project Structure
 
