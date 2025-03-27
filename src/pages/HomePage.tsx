@@ -34,7 +34,7 @@ const HomePage: React.FC = () => {
           {/* Image - Takes less space, adjusted styling */}
           <div className="md:col-span-2 flex justify-center md:justify-end">
             <img
-						  src="https://sarah.xin/assets/sarahliu1.png"
+						  src="/images/sarahliu1.png"
 						  alt="Sarah Liu"
 						  className="rounded-2xl w-80 h-auto object-cover border-4 border-white shadow-md"
 						/>

@@ -10,7 +10,7 @@ const AboutPage: React.FC = () => {
         <div className="md:col-span-1 flex justify-center">
           <img
             // Using a placeholder image URL from Unsplash
-            src="https://sarah.xin/assets/sarahliu.png"
+            src="/images/sarahliu.png"
             alt="Sarah Liu"
             className="rounded-lg w-full max-w-xs object-cover shadow-md"
           />
