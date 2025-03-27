@@ -1,0 +1,75 @@
+/* Google Fonts are linked in index.html */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth; /* Add smooth scrolling */
+  }
+  body {
+    @apply bg-white font-sans text-base text-gray-700 leading-relaxed; /* Base font Inter */
+  }
+  /* Apply Playfair Display to headings */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-semibold text-gray-900; /* Use font-serif (Playfair Display) */
+  }
+  /* Adjust heading sizes and margins */
+  h1 { @apply text-4xl md:text-5xl leading-tight mb-4; }
+  h2 { @apply text-3xl md:text-4xl leading-snug mb-4; }
+  h3 { @apply text-2xl leading-snug mb-3; }
+  h4 { @apply text-xl leading-normal mb-3; }
+
+  p {
+    @apply mb-4; /* Default bottom margin for paragraphs */
+  }
+
+  a {
+    @apply text-pink-600 hover:text-pink-700 transition-colors duration-200;
+  }
+
+  /* Prose (Markdown) specific styles */
+  .prose {
+    @apply text-gray-700 max-w-none font-sans; /* Ensure prose uses body font (Inter) */
+  }
+  .prose :where(p):where([class~="lead"]) {
+    @apply text-xl text-gray-600;
+  }
+  .prose :where(a):not(:where([class~="not-prose"] *)) {
+    @apply text-pink-600 hover:text-pink-700 font-medium;
+  }
+  .prose :where(strong):not(:where([class~="not-prose"] *)) {
+    @apply text-gray-800 font-semibold;
+  }
+  .prose :where(blockquote):not(:where([class~="not-prose"] *)) {
+    @apply border-l-4 border-pink-300 pl-4 italic text-gray-600 font-normal font-sans; /* Ensure blockquote uses body font */
+  }
+   /* Apply Playfair Display to headings within prose */
+   .prose :where(h1):not(:where([class~="not-prose"] *)),
+   .prose :where(h2):not(:where([class~="not-prose"] *)),
+   .prose :where(h3):not(:where([class~="not-prose"] *)),
+   .prose :where(h4):not(:where([class~="not-prose"] *)) {
+     @apply font-serif text-gray-900 font-semibold mb-4 mt-8; /* Use font-serif */
+   }
+   /* Adjust prose heading sizes */
+   .prose :where(h1):not(:where([class~="not-prose"] *)) { @apply text-3xl md:text-4xl; }
+   .prose :where(h2):not(:where([class~="not-prose"] *)) { @apply text-2xl md:text-3xl; }
+   .prose :where(h3):not(:where([class~="not-prose"] *)) { @apply text-xl md:text-2xl; }
+   .prose :where(h4):not(:where([class~="not-prose"] *)) { @apply text-lg md:text-xl; }
+
+  .prose :where(code):not(:where([class~="not-prose"] *)) {
+    @apply text-sm bg-pink-100 text-pink-800 px-1 py-0.5 rounded font-mono;
+  }
+  .prose :where(pre):not(:where([class~="not-prose"] *)) {
+    @apply bg-gray-800 text-gray-100 p-4 rounded-md overflow-x-auto text-sm leading-relaxed font-mono;
+  }
+   .prose :where(ul):not(:where([class~="not-prose"] *)) > :where(li):not(:where([class~="not-prose"] *))::marker {
+      @apply text-pink-400;
+   }
+    .prose :where(ol):not(:where([class~="not-prose"] *)) > :where(li):not(:where([class~="not-prose"] *))::marker {
+      @apply text-pink-500 font-medium;
+   }
+}
