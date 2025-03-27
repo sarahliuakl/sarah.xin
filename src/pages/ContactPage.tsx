@@ -15,9 +15,10 @@ const ContactPage: React.FC = () => {
     setStatus('loading');
     setStatusMessage('');
 
-    // 准备 API 路径，兼容本地开发和 Netlify 部署
+    // 准备 API 路径，使用当前网站所在的域名
+    // 这将确保请求发送到同一域名下，避免CORS问题
     const apiUrl = import.meta.env.PROD && !import.meta.env.SSR 
-      ? 'https://sarahliu-portfolio.netlify.app/.netlify/functions/send-email' 
+      ? '/.netlify/functions/send-email' 
       : '/api/send-email';
 
     try {
