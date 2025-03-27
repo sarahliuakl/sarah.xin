@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+name: Deploy to GitHub User Pages
 
 on:
   # 在每次推送到 main 分支时触发

@@ -48,7 +48,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 
 2. GitHub Actions will automatically build and deploy your site to GitHub Pages.
 
-3. Access your deployed site at `https://sarahliuakl.github.io/sarah.xin/`
+3. Access your deployed site at `https://sarahliuakl.github.io`
 
 4. **Important**: You need to add the following secrets to your GitHub repository:
    - Go to your repository > Settings > Secrets and variables > Actions

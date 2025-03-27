@@ -17,7 +17,7 @@ const ContactPage: React.FC = () => {
 
     // 准备 API 路径，兼容本地开发和 Netlify 部署
     const apiUrl = import.meta.env.PROD && !import.meta.env.SSR 
-      ? 'https://sarah-xin.netlify.app/.netlify/functions/send-email' 
+      ? 'https://sarahliu-portfolio.netlify.app/.netlify/functions/send-email' 
       : '/api/send-email';
 
     try {
