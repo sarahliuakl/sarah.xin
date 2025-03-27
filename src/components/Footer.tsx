@@ -33,11 +33,11 @@ const Footer: React.FC = () => {
              <h4 className="text-base font-semibold text-gray-800 mb-4">Connect</h4>
              <div className="flex space-x-5">
                 {/* Placeholder Links - Replace '#' with actual URLs */}
-                <a href="#" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-pink-500 transition-colors">
+                <a href="https://github.com/sarahliuakl" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-pink-500 transition-colors">
                     <span className="sr-only">GitHub</span>
                     <Github size={22} />
                 </a>
-                <a href="#" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-pink-500 transition-colors">
+                <a href="https://www.linkedin.com/in/sara-liu-bba129255" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-pink-500 transition-colors">
                      <span className="sr-only">LinkedIn</span>
                     <Linkedin size={22} />
                 </a>
