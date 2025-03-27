@@ -22,11 +22,16 @@ export default defineConfig({
   plugins: [
     react()
   ],
-  // Ensure static assets are correctly handled 
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
-    // Generate the correct runtime config
+    // 使用相对路径而不是绝对路径来引用资源
+    rollupOptions: {
+      output: {
+        assetFileNames: 'assets/[name].[ext]'
+      }
+    },
+    // 生成正确的运行时配置
     sourcemap: true
   }
 })
