@@ -68,7 +68,7 @@ const ContactPage: React.FC = () => {
             </div>
             <div className="flex items-center space-x-3">
               <Phone className="text-pink-500" size={20} />
-              <span className="text-gray-700">+64 022 525 5864</span>
+              <span className="text-gray-700">+64 022 525 5862</span>
             </div>
             <div className="flex items-center space-x-3">
               <MapPin className="text-pink-500" size={20} />
