@@ -46,7 +46,7 @@ export const fetchPosts = async (): Promise<PostData[]> => {
   // Adjust if you place them elsewhere (e.g., 'src/posts/*.md').
   // `eager: true` imports the modules directly.
   // `import: 'default'` imports the raw string content of the markdown file.
-  const modules = import.meta.glob('/posts/*.md', { eager: true, as: 'raw' });
+  const modules = import.meta.glob('../../posts/*.md', { eager: true, as: 'raw' });
 
   const posts: PostData[] = [];
 

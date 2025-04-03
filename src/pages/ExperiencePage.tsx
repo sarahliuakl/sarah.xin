@@ -27,53 +27,53 @@ const ExperienceItem: React.FC<{
 const ExperiencePage: React.FC = () => {
   const experiences = [
     {
-      dates: "2020 - Present",
-      role: "Senior Digital Marketing Specialist",
-      company: "Global Reach Marketing",
-      location: "Auckland",
-      responsibilities: [
-        "Lead digital strategy development and implementation for international clients seeking to enter the NZ and Australian markets, with specialized expertise in Chinese digital platforms.",
-        "Developed and executed cross-platform marketing strategies resulting in 45% average increase in brand engagement and 30% growth in conversion rates.",
-        "Managed social media presence across WeChat, Douyin, Facebook and Instagram with combined following of 150K+.",
-        "Optimized SEO/SEM campaigns, achieving first-page Google rankings for 85% of client target keywords.",
-        "Created and localized bilingual content strategies for tourism, education, and retail clients."
-      ]
-    },
-    {
-      dates: "2016 - 2020",
-      role: "Digital Marketing Manager",
-      company: "East-West Connect",
-      location: "Shanghai",
-      responsibilities: [
-        "Managed digital marketing initiatives for Western brands entering the Chinese market, with focus on strategy, content localization, and performance optimization.",
-        "Led digital strategy for 10+ international brands, achieving average 38% increase in Chinese market digital engagement.",
-        "Developed and executed WeChat and Douyin marketing plans, including influencer collaborations that generated 250K+ impressions per campaign.",
-        "Implemented data analytics systems for reporting, increasing operational efficiency by 25%.",
-        "Supervised team of 5 content creators and social media specialists."
-      ]
-    },
-    {
-      dates: "2012 - 2016",
-      role: "Content Marketing Specialist",
-      company: "Digital Bridge Agency",
+      dates: "2016 - 2022",
+      role: "Project Manager",
+      company: "Beijing Ruiyousi Information Technology Co., Ltd.",
       location: "Beijing",
       responsibilities: [
-        "Created and managed bilingual content strategies for international educational institutions and tourism brands targeting the Chinese market.",
-        "Developed content strategy and localization guidelines for 8 educational clients, supporting 40% average growth in Chinese student applications.",
-        "Created and managed content calendars for Chinese social media platforms, achieving 65% increase in engagement.",
-        "Collaborated with design and development teams to create culturally appropriate landing pages with improved conversion rates."
+        "Oversaw the development and promotion of multiple websites and mobile apps, maintaining a customer satisfaction rate above 90%. Coordinated technical, design, and operations teams to ensure timely, high-quality, and on-budget deliveries.",
+        "Monitored key metrics via Google Analytics, Baidu, and third-party tools. Analyzed cost vs. revenue across channels, identifying highest ROI platforms. Used A/B testing and audience segmentation to raise CTR by 20% and cut acquisition costs by 15%.",
+        "Focused on producing high-value content for WeChat and other new media platforms, driving a 60% increase in online sales for clients.",
+        "Applied strategies like emotional marketing and scarcity marketing, boosting brand awareness and product visibility by 45%.",
+        "Handled multi-channel online sales of New Zealand health supplements, gaining extensive product knowledge and cross-border marketing experience."
       ]
     },
     {
-      dates: "2008 - 2012",
-      role: "Marketing Coordinator",
-      company: "China Tourism Group",
-      location: "Chongqing",
+      dates: "2014 - 2016",
+      role: "Online Marketing Manager",
+      company: "Beijing Shenghanmei Aesthetic Hospital",
+      location: "Beijing",
       responsibilities: [
-        "Coordinated marketing activities for domestic and international tourism campaigns, including digital content, event planning and partnership management.",
-        "Assisted in launching the company's first social media presence, gaining 50K+ followers in first year.",
-        "Coordinated content production for digital campaigns promoting Chinese destinations to international tourists.",
-        "Supported marketing events and promotional activities with international tourism boards."
+        "Redesigned the hospital's main website around user experience, increasing overall traffic and consultation conversions by 40%.",
+        "Crafted engaging content across major online platforms, achieving a 35% rise in inquiries for cosmetic procedures.",
+        "Grew WeChat account to 200,000 followers in three months. Through community and Moments campaigns, drove daily visits to 20-30 new patients, increasing net profit by CNY 100K-300K per day.",
+        "Managed both Google Ads and Baidu SEM, improving overall ROI by 50%, delivering significant profitability for the hospital."
+      ]
+    },
+    {
+      dates: "2011 - 2014",
+      role: "Editorial Department Manager",
+      company: "Beijing Baidecheng Technology Co., Ltd.",
+      location: "Beijing",
+      responsibilities: [
+        "Led daily operations of the marketing team, improving landing page design and copywriting. Increased website click-through rates by 50% and boosted inquiry/conversion rates by 30%.",
+        "Built multiple websites targeting different product keywords, leveraging 'site cluster' effects and search engine crawlers, driving daily organic searches into hundreds of millions.",
+        "Oversaw both Google Ads and Baidu PPC, implementing precise bidding and audience targeting strategies, improving overall ROI by 30%.",
+        "Spearheaded website redesign focused on clear structure and user-friendly interfaces, reducing bounce rates by 18%.",
+        "Utilized TV interviews, promotional videos, magazines, newspapers, online forums, and blogs to broaden brand reach."
+      ]
+    },
+    {
+      dates: "2007 - 2010",
+      role: "Website Planning & Design Specialist",
+      company: "Beijing Lianchuang Network Technology Co., Ltd.",
+      location: "Beijing",
+      responsibilities: [
+        "Devised keyword strategies and optimized article titles, increasing daily organic traffic from 100 to 20,000 within 3-6 months, focusing on sustainable growth.",
+        "Used Microsoft Visio to map out website content and structure, optimizing layouts and information architecture, resulting in 30% boost in user engagement and 20% increase in online transactions.",
+        "Leveraged various channels—friend links, forums, blogs, and Baidu Tieba—to build brand exposure and user loyalty.",
+        "Managed over 30 website projects on time and within budget, leading to follow-up contracts worth approximately NZD 2 million."
       ]
     }
   ];
