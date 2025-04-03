@@ -33,7 +33,7 @@ const AboutPage: React.FC = () => {
         <h2 className="text-2xl font-semibold text-gray-800 mb-6 border-b pb-2">Core Competencies</h2>
         <div className="space-y-4">
           <CompetencyItem title="Digital Marketing Strategy:" description="Strategic campaign planning, execution, and performance analysis." />
-          <CompetencyItem title="Social Media Management:" description="Targeted marketing in WeChat, Douyin (TikTok), Facebook and Instagram." />
+          <CompetencyItem title="Social Media Management:" description="Targeted marketing in WeChat, ReNote, Douyin (TikTok), Facebook and Instagram." />
           <CompetencyItem title="SEO & SEM Optimization:" description="Expert in keyword research, on-page/off-page SEO strategies, and paid search management." />
           <CompetencyItem title="Content Creation & Localization:" description="Producing bilingual (English & Mandarin) content that resonates with targeted audiences." />
           <CompetencyItem title="Digital Media Production:" description="Skilled in creating engaging videos and high-conversion landing pages." />
