@@ -1,4 +1,4 @@
-# Why Zhihu is the Hidden Goldmine for China's Education Market: Key Strategies for NZ Institutions in 2025
+# Zhihu: A Must-Know Platform for NZ Educators Targeting China
 
 ## ⚡ When Kiwi Principals Meet Chinese Parents: A $370 Million Gap in Understanding
 

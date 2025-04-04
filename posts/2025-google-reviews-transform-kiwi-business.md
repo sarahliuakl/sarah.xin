@@ -1,4 +1,4 @@
-# From Zero to Five Stars: How Google Reviews Can Transform Your Kiwi Business
+# How Google Reviews Can Transform Your Kiwi Business
 
 ## The Nightmare of the Vanishing Reviews: Are You Ready for Digital Survival?
 
