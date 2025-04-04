@@ -73,29 +73,29 @@ const PortfolioItem: React.FC<PortfolioItemProps> = ({
 const PortfolioPage: React.FC = () => {
   const portfolioItems: PortfolioItemProps[] = [
     {
-      title: "E-commerce Social Media Campaign",
-      dates: "2020 - 2021",
-      platforms: "WeChat & Douyin",
-      description: "Led a comprehensive digital marketing campaign for a major fashion retailer, combining social media engagement with influencer partnerships.",
+      title: "Personal Brand Development in Aesthetic Medicine & Beauty Salon Event Management",
+      dates: "2014 - 2016",
+      platforms: "WeChat, Weibo, Baidu Baike",
+      description: "Developed distinctive personal brand identities ('personal IPs') for doctors in aesthetic medicine clinics by identifying their unique communication styles and creating tailored content for digital platforms. For example, a surgeon with a sense of humour who could put clients at ease became a standout figure, combining professional expertise with strong personal charm to attract and retain attention on social media. Organised regular salon-style events for clinic clients, centred around topics related to beauty, wellness, and cosmetic treatments. These events encouraged peer-to-peer sharing of experiences and provided opportunities for clinics to showcase new technologies, ultimately strengthening customer loyalty and promoting repeat business.",
       challenges: [
-        "Highly competitive market with multiple established brands",
-        "Need to differentiate brand identity across platforms",
-        "Complex coordination between offline and online channels"
+        "Competitive market with several well-known brands",
+        "Complex coordination between online campaigns and offline operations"
       ],
       solutions: [
-        "Developed platform-specific content strategies",
-        "Established partnerships with targeted KOLs (Key Opinion Leaders)",
-        "Implemented data-driven campaign optimization"
+        "Assigned a dedicated coordinator to oversee daily meetings and ensure seamless collaboration across departments and channels",
+        "Established partnerships with key opinion leaders (KOLs) in the industry",
+        "Executed data-driven marketing strategies for campaign optimisation"
       ],
       results: [
-        "40% increase in social media engagement",
-        "25% growth in online sales",
-        "Expanded follower base by 100,000+"
+        "70% increase in WeChat social media engagement",
+        "60% increase in new customer acquisition",
+        "35% growth in online sales",
+        "Expanded fan base to over 100,000 followers"
       ],
       transferableSkills: [
-        "Social media campaign management translatable to Facebook/Instagram",
-        "Influencer collaboration strategies applicable to any market",
-        "Data analytics and performance optimization"
+        "Social media campaign management skills applicable to Facebook/Instagram",
+        "Influencer collaboration and personal branding strategies suitable for local and international markets",
+        "Strong capability in data analysis and performance optimisation"
       ]
     },
     {
