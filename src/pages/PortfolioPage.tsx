@@ -99,29 +99,36 @@ const PortfolioPage: React.FC = () => {
       ]
     },
     {
-      title: "Tourism Industry Digital Marketing",
+      title: "Tourism Accommodation Digital Marketing",
       dates: "2018 - 2019",
-      platforms: "WeChat, Weibo & SEO",
-      description: "Managed digital presence for a luxury hotel chain, focusing on both domestic and international traveler segments.",
+      platforms: "Airbnb, WeChat & Weibo",
+      description: "Successfully operated boutique Airbnb properties catering to international travelers in New Zealand's competitive tourism market.",
       challenges: [
-        "Multi-language content requirements",
-        "Seasonal booking fluctuations",
-        "Competition from international hotel brands"
+        "Multi-cultural guest communication barriers",
+        "Establishing trust as new independent operator",
+        "Managing peak/off-season occupancy rates",
+        "Standing out in saturated vacation rental market"
       ],
       solutions: [
-        "Created bilingual content strategy",
-        "Implemented targeted seasonal campaigns",
-        "Optimized search presence across platforms"
+        "Developed trilingual marketing materials (EN/CN/ES)",
+        "Created personalized travel guides for different nationalities",
+        "Implemented dynamic pricing strategy with seasonal promotions",
+        "Optimized Airbnb SEO through keyword-rich descriptions",
+        "Built social proof system with structured review management"
       ],
       results: [
-        "35% increase in direct bookings",
-        "50% improvement in search visibility",
-        "200% growth in social media engagement"
+        "Achieved perfect 5.0 rating within 3 months",
+        "Maintained 95%+ occupancy rate in peak seasons",
+        "40% repeat/referral bookings through WeChat",
+        "Recognized as \"Airbnb Plus\" quality host",
+        "300% social media engagement growth on travel content"
       ],
       transferableSkills: [
-        "Multi-language content strategy applicable to NZ market",
-        "Tourism industry expertise relevant to Auckland",
-        "Cross-cultural marketing experience"
+        "Local tourism insights: Deep understanding of NZ travel patterns from Milford Sound to Bay of Islands",
+        "Platform optimization: Proven Airbnb algorithm mastery applicable to TradeMe & Bookabach",
+        "Cross-cultural service: Managed guests from 15+ countries including key NZ markets like China, US and Germany",
+        "Bootstrap marketing: Cost-effective strategies perfect for SMEs",
+        "Review management system: Transferable to Google Business Profile optimization"
       ]
     }
     // Add more portfolio items here if needed
