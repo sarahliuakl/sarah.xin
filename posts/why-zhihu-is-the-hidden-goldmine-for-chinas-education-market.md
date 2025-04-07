@@ -1,5 +1,7 @@
 # Zhihu: A Must-Know Platform for NZ Educators Targeting China
 
+![Zhihu Education Platform](/images/zhihu-education.svg)
+
 ## ⚡ When Kiwi Principals Meet Chinese Parents: A $370 Million Gap in Understanding
 
 In a Zoom call at an Auckland high school, Principal James stared confused at his screen. For the fifth time this month, an email from Chinese parents had asked: "What's your official account on Zhihu?"

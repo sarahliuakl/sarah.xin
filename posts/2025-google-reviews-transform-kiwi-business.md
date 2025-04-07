@@ -1,5 +1,7 @@
 # How Google Reviews Can Transform Your Kiwi Business
 
+![Google Reviews Impact](/images/google-reviews-impact.svg)
+
 ## The Nightmare of the Vanishing Reviews: Are You Ready for Digital Survival?
 
 On 7th February 2025, Sarah, owner of a popular Kiwi café, woke to find all 128 of her Google reviews gone overnight. Even worse, her weekly sales plunged 42%. Welcome to the brutal reality of digital business in New Zealand. Every year, **1 in 5 Kiwi businesses loses over $50,000** due to negative reviews (Impact PR, 2024). Meanwhile, businesses with ratings of **4.5 stars or higher** enjoy **37% lower customer acquisition costs** (WebGenius, 2023).

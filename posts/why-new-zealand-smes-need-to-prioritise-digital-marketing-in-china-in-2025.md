@@ -1,5 +1,7 @@
 # Why New Zealand SMEs Need to Prioritise Digital Marketing in China in 2025
 
+![China Digital Market Opportunities](/images/china-digital-market.svg)
+
 **Did you know every dollar spent marketing in China can return significantly more than investing in local markets?**
 
 For New Zealand SMEs, 2025 is shaping up to be one of the most challenging years yet. AI-driven technologies are reshaping global business landscapes, the local job market is tightening, and economic conditions are tougher than ever. But amid these difficulties, one golden opportunity stands out—the enormous potential of the Chinese market.
