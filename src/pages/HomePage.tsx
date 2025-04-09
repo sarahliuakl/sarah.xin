@@ -52,7 +52,7 @@ const HomePage: React.FC = () => {
         </p>
 
         {/* Service Cards - Added hover effect */}
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-4 gap-8">
           <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 border-t-4 border-pink-400">
             <h3 className="text-xl font-semibold text-gray-800 mb-3">Digital Production</h3> {/* Adjusted margin */}
             <p className="text-gray-600 text-sm leading-relaxed"> {/* Ensured leading-relaxed */}
@@ -69,6 +69,12 @@ const HomePage: React.FC = () => {
             <h3 className="text-xl font-semibold text-gray-800 mb-3">Sales Localization</h3>
             <p className="text-gray-600 text-sm leading-relaxed">
               Adapting your sales approach and content to effectively resonate with local audiences.
+            </p>
+          </div>
+          <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 border-t-4 border-pink-400">
+            <h3 className="text-xl font-semibold text-gray-800 mb-3">Proficient in AI Tools</h3>
+            <p className="text-gray-600 text-sm leading-relaxed">
+              Leveraging a range of AI-powered tools to streamline workflows, enhance content quality, and improve overall marketing efficiency.
             </p>
           </div>
         </div>
