@@ -1,8 +1,10 @@
 # 2025 AI Opportunities for New Zealand Digital Marketers 
 
+**"When AI can create ads, predict customer behaviour, and design strategies – where does our value lie?"**  
+This question haunted Kiwi marketers in 2024. But data reveals a game-changing truth: **93% of marketers now use AI tools, with AI skills becoming a core hiring requirement for 94% of businesses** (State of AI in Marketing Report 2025). AI isn't a threat – it's your career rocket booster, reshaping industry rules and creating unprecedented opportunities.  
+
 ![AI and Marketing Synergy](/images/ai-marketing-diagram.svg)
 
-**"When AI can create ads, predict customer behaviour, and design strategies – where does our value lie?"**  
 This question haunted Kiwi marketers in 2024. But data reveals a game-changing truth: **93% of marketers now use AI tools, with AI skills becoming a core hiring requirement for 94% of businesses** (State of AI in Marketing Report 2025). AI isn’t a threat – it’s your career rocket booster, reshaping industry rules and creating unprecedented opportunities.  
 
 ---
