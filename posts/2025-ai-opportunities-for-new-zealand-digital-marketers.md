@@ -46,12 +46,12 @@ These numbers prove one truth: **AI won’t eliminate jobs – it eliminates pro
 **🌏 Localised comparison**:  
 ```plaintext  
 Traditional vs AI-Enhanced Roles  
-───────────────────────────────  
+```
 | Capability       | Pre-2025        | 2025 Advantage        |
-| ---------------- | --------------- | --------------------- |
+| --------------- | --------------- | -------------------- |
 | Customer Insight | Manual sampling | AI full-data analysis |
-| Strategy         | Gut-feel        | Algorithm-driven      |
-| Evaluation       | Weekly lag      | Minute-by-minute      |
+| Strategy        | Gut-feel        | Algorithm-driven      |
+| Evaluation      | Weekly lag      | Minute-by-minute      |
 ```
 
 ---
