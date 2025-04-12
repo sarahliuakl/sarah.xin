@@ -17,14 +17,12 @@ Behind this scenario are some eye-opening figures:
 ## 🔍 Zhihu Unpacked: The Digital Lounge for High-Net-Worth Users
 
 ### User Persona: A Community Packed with Elites
-```mermaid
-pie
-    title Core Zhihu User Traits
-    "Bachelor's Degree or Higher": 82
-    "Family Income > RMB 600k": 68
-    "Interested in Studying Abroad": 41
-    "Influencers in Decision-Making (Teachers/Experts)": 29
-```
+| Core Zhihu User Traits | Percentage |
+| ---------------------- | ---------- |
+| Bachelor's Degree or Higher | 82% |
+| Family Income > RMB 600k | 68% |
+| Interested in Studying Abroad | 41% |
+| Influencers in Decision-Making (Teachers/Experts) | 29% |
 
 Zhihu, with its 81 million monthly active users, is essentially a **mobile academic salon**. When Chinese parents type "NZ NCEA Curriculum" into Zhihu, they're not just seeking information—they're looking for credible, authoritative advice.
 
