@@ -1,7 +1,7 @@
 # 2025 AI Opportunities for New Zealand Digital Marketers 
 
-When AI can create ads, predict customer behaviour, and design strategies – where does our value lie?  
-This question haunted Kiwi marketers in 2024. But data reveals a game-changing truth: 93% of marketers now use AI tools, with AI skills becoming a core hiring requirement for 94% of businesses (State of AI in Marketing Report 2025). AI isn't a threat – it's your career rocket booster, reshaping industry rules and creating unprecedented opportunities.  
+When AI can create ads, predict customer behaviour, and design strategies, where does our value lie?
+This question haunted Kiwi marketers in 2024. But data reveals a game-changing truth: 93% of marketers now use AI tools, with AI skills becoming a core hiring requirement for 94% of businesses (State of AI in Marketing Report 2025). AI isn't a threat, it's your career rocket booster, reshaping industry rules and creating unprecedented opportunities.  
 
 ![AI and Marketing Synergy](/images/ai-marketing-diagram.svg)
 
@@ -17,7 +17,7 @@ This question haunted Kiwi marketers in 2024. But data reveals a game-changing t
 | NZ businesses requiring AI skills | 94%                    | Double your employability                 |
 | AI trend prediction accuracy      | 85%                    | Evolve from executor to strategic advisor |
 
-These numbers prove one truth: AI won't eliminate jobs – it eliminates professionals who refuse to evolve. It's automating repetitive tasks (data scrubbing, basic copywriting) while unlocking three opportunities: creative scalability, intelligent decision-making, and strategic role elevation.
+These numbers prove one truth: AI won't eliminate jobs, it eliminates professionals who refuse to evolve. It's automating repetitive tasks (data scrubbing, basic copywriting) while unlocking three opportunities: creative scalability, intelligent decision-making, and strategic role elevation.
 
 ---
 
@@ -30,7 +30,7 @@ These numbers prove one truth: AI won't eliminate jobs – it eliminates profess
   - Multimedia mastery: Develop video scripts with Pictory, create multilingual videos via Synthesia.
   - Cultural intelligence: Use HIX.AI for bilingual content infused with Māori cultural elements.
 
-💡 Key shift: Become a creative director – spend 10% time managing 90% of AI-driven production.
+Key shift: Become a creative director, spend 10% time managing 90% of AI-driven production.
 
 ---
 
@@ -51,13 +51,13 @@ Traditional vs AI-Enhanced Roles
 ---
 
 ### 3. From Executor to Ethics Architect
-- Market shift: 47% of NZ businesses prioritise ethical AI tools – transparency drives trust.
+- Market shift: 47% of NZ businesses prioritise ethical AI tools, transparency drives trust.
 - Emerging skillset:
   - Explainable AI: Use tools like LIME to demystify AI decisions for clients.
   - Privacy mastery: Navigate NZ Privacy Act with compliant platforms like Bloomreach.
   - Human-AI synergy: Enhance AI-generated scripts with emotional depth (Lexus campaign model).
 
-📌 Local success: Wellington's Deepseek R1 achieved 30% higher conversions through AI ethics certification.
+Local success: Wellington's Deepseek R1 achieved 30% higher conversions through AI ethics certification.
 
 ---
 
@@ -83,5 +83,5 @@ Traditional vs AI-Enhanced Roles
 
 ## Conclusion: AI as Your Career Catalyst
 
-"The next decade won't see AI taking your job – but professionals using AI will."
-When 5-person Auckland agencies serve national clients through AI, and Wellington freelancers manage 10 brands' content strategies, 2025's winners already know: AI isn't competition – it's your superpower.
+"The next decade won't see AI taking your job, but professionals using AI will."
+When 5-person Auckland agencies serve national clients through AI, and Wellington freelancers manage 10 brands' content strategies, 2025's winners already know: AI isn't competition, it's your superpower.
